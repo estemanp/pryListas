@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="vertical_margin">20dp</dimen>
+    <dimen name="side_margin">10dp</dimen>
+    <dimen name="size_id_student">100dp</dimen>
+    <dimen name="padding_image">4dp</dimen>
+</resources>
